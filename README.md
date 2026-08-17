@@ -15,4 +15,4 @@ DevOps Engineer Passionate about Cloud & Automation
 ## Projects
 -Azure Landing Zone Implementation
 Terraform-Based Infrastructure Automation
-Secure DevSecOps Pipeline Implementation
+Secure DevSecOps Pipeline Implementation.
